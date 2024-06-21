@@ -7,7 +7,6 @@ export interface EquipoParlante {
     potencia: string;
     cantidadAltavoces: number;
     bluetooth: boolean;
-    // Agrega más propiedades si es necesario
 }
 
 export interface EquipoParlanteProps {
